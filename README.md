@@ -19,8 +19,8 @@ Crafting ideas into circuits and code | An Electronics & Communication student e
 
 ## 🚀 Featured Repositories
 
-* 🔹 [**Cleste Core**]([https://github.com/org69-cleste/core](https://github.com/R0h1th-1DD4E2/Celeste-Core.git)) – Custom FFT RTL core
-*  🔹 [**RISCV32_Pipelined**]([https://github.com/R0h1th-1DD4E2/RISCV32_Multicycle.git](https://github.com/ProjectWork-Team69/pipelined_cpu.git)) – Full Pipelined RISCV processor design
+* 🔹 [**Cleste Core**]((https://github.com/R0h1th-1DD4E2/Celeste-Core.git)) – Custom FFT RTL core
+*  🔹 [**RISCV32_Pipelined**]((https://github.com/ProjectWork-Team69/pipelined_cpu.git)) – Full Pipelined RISCV processor design
 * 🔹 [**RISCV32_Multicycle**](https://github.com/R0h1th-1DD4E2/RISCV32_Multicycle.git) – Full Multicycle RISCV processor design
 * 🔹 [**BMSCE\_T02**](https://github.com/R0h1th-1DD4E2/BMSCE_T02) – TinyTapeout Design
 * 🔹 **AES / FFT / UART / AXI Wrappers** – Hardware accelerators & IPs
