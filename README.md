@@ -1,7 +1,8 @@
 
 ---
 
-# 👋 Hi, I’m **INFINITER**
+# 👋 Hi, I’m **SATEESH**
+Crafting ideas into circuits and code | An Electronics & Communication student exploring the art of digital design.
 
 <p align="center">
   <a href="[https://www.linkedin.com/in/](https://www.linkedin.com/in/sateesh-y-abbigeri-458222358/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -18,9 +19,10 @@
 
 ## 🚀 Featured Repositories
 
-* 🔹 [**Org69 Cleste Core**](https://github.com/org69-cleste/core) – Custom RTL core
-* 🔹 [**MIPS Implementation**](#) – Classic processor design
-* 🔹 [**BMSCE\_T02**](https://github.com/R0h1th-1DD4E2/BMSCE_T02) – FPGA + VLSI projects
+* 🔹 [**Cleste Core**]([https://github.com/org69-cleste/core](https://github.com/R0h1th-1DD4E2/Celeste-Core.git)) – Custom FFT RTL core
+*  🔹 [**RISCV32_Pipelined**]([https://github.com/R0h1th-1DD4E2/RISCV32_Multicycle.git](https://github.com/ProjectWork-Team69/pipelined_cpu.git)) – Full Pipelined RISCV processor design
+* 🔹 [**RISCV32_Multicycle**](https://github.com/R0h1th-1DD4E2/RISCV32_Multicycle.git) – Full Multicycle RISCV processor design
+* 🔹 [**BMSCE\_T02**](https://github.com/R0h1th-1DD4E2/BMSCE_T02) – TinyTapeout Design
 * 🔹 **AES / FFT / UART / AXI Wrappers** – Hardware accelerators & IPs
 
 ---
@@ -68,8 +70,8 @@
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=R0h1th-1DD4E2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=R0h1th-1DD4E2&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SATEESH-ABBIGERI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SATEESH-ABBIGERI&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
