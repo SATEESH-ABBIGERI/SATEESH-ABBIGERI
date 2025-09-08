@@ -1,10 +1,14 @@
 <!-- Profile README -->
 
-<h1 align="center"> 👋 Hey, I’m <span style="color:#00C2FF">SATEESH</span> </h1>
+<h1 align="center">
+  <span style="background: linear-gradient(90deg, #00f0ff, #00bcd4); -webkit-background-clip: text; color: transparent; font-family:Arial, Helvetica, sans-serif; font-weight:bold;">
+    I'm Sateesh!
+  </span>
+</h1>
+
 
 <p align="center">
-  <b>⚡ Electronics & Communication Engineer in the making ⚡</b><br/>
-  🚀 Passionate about Hardware, RTL Design & Digital Systems <br/>
+  <b>⚡ Electronics & Communication Engineer in the making ⚡🚀 Passionate about Hardware, RTL Design & Digital Systems <br/>
   💻 Blending <b>Circuits + Code</b> to craft the future of computing
 </p>
 
