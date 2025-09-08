@@ -5,6 +5,8 @@
 Crafting ideas into circuits and code | An Electronics & Communication student exploring the art of digital design.
 
 <p align="center">
+  Crafting ideas into circuits and code | An Electronics & Communication student exploring the art of digital design.
+  YOU CAN CONNECT ME AT
   <a href="[https://www.linkedin.com/in/](https://www.linkedin.com/in/sateesh-y-abbigeri-458222358/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:sateeshabbigeri4@example.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>  
