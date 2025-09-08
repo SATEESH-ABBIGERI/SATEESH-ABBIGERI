@@ -71,11 +71,13 @@
 ## ⚡ Random Dev Quote  
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
+  ---
+
+## ⚡ Quote of the Day  
+
+> *“Electrons are a lot like hipsters— if there are too many other electrons in the same place as them, they want to go somewhere else.”*  
+> — *Amy Wibowo*  
 
 ---
 
-## 🎯 Motto  
-
-> *“Don’t just design chips. Design the future.”*  
+</p>
