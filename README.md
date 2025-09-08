@@ -1,6 +1,6 @@
 <!-- Profile README -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=35&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=I'm+Sateesh!;_Electronics+%26+VLSI+Enthusiast_; Coding+with+Circuits" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=35&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=I'm+Sateesh!;" alt="Typing SVG" />
 </p>
 
 
