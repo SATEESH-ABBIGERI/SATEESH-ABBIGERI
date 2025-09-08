@@ -1,10 +1,9 @@
 <!-- Profile README -->
 
-<h1 align="center">
-  <span style="background: linear-gradient(90deg, #00f0ff, #00bcd4); -webkit-background-clip: text; color: transparent; font-family:Arial, Helvetica, sans-serif; font-weight:bold;">
-    I'm Sateesh!
-  </span>
+<h1 align="center" style="color:cyan; font-family:Arial, Helvetica, sans-serif; font-weight:bold;">
+  I'm Sateesh!
 </h1>
+>
 
 
 <p align="center">
