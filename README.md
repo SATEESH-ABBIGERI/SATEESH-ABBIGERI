@@ -1,18 +1,11 @@
-Perfect 🚀 — we’ll make it **stylish + professional** with:
-
-1. **Cartoon Avatar** → like the one in your screenshot, placed at the right side.
-2. **Skill Badges** → instead of a plain text list, we’ll use colorful skill badges for tools, languages, and domains.
-
-Here’s your updated README template 👇
 
 ---
 
 # 👋 Hi, I’m **INFINITER**
 
 <p align="center">
-  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="[https://www.linkedin.com/in/](https://www.linkedin.com/in/sateesh-y-abbigeri-458222358/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:sateeshabbigeri4@example.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>  
 
 ---
@@ -86,5 +79,3 @@ Here’s your updated README template 👇
 > *“Designing processors and circuits isn’t just about logic — it’s about creating tomorrow’s computing.”*
 
 ---
-
-👉 Next step: I can generate a **cartoon avatar of you (like in the screenshot)** if you send me a **photo of yourself**. Do you want me to create that avatar for you?
