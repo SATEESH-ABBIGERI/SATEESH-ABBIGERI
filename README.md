@@ -11,12 +11,6 @@ Crafting ideas into circuits and code | An Electronics & Communication student e
 
 ---
 
-<p align="right">
-  <img src="cartoon-avatar.png" alt="avatar" width="200"/>
-</p>
-
----
-
 ## 🚀 Featured Repositories
 
 * 🔹 [**Cleste Core**](https://github.com/R0h1th-1DD4E2/Celeste-Core.git) – Custom FFT RTL core
