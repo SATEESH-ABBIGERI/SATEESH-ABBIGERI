@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <b>⚡ Electronics & Communication Engineer in the making ⚡🚀 Passionate about Hardware, RTL Design & Digital Systems <br/>
+  <b>⚡ Electronics & Communication Engineer !⚡🚀 Passionate about Hardware, RTL Design & Digital Systems <br/>
   💻 Blending <b>Circuits + Code</b> to craft the future of computing
 </p>
 
